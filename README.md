@@ -404,6 +404,5 @@ Test Results: 17 Passed, 0 Failed
 
 ## 👨‍💻 Author & Academic Submission
 - **Project Title:** WorkFlow – Advanced Task & Project Management System
-- **Assignment:** College Term Work 3
 - **Developer:** Safwan
 - **Stack:** MERN (MongoDB, Express, React, Node.js)
